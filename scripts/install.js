@@ -7,7 +7,7 @@ import https from "node:https";
 import { execFileSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
 
-const OWNER = "grulex"; // поменяй, если другой GitHub owner
+const OWNER = "grulex";
 const REPO = "grpc-invoke-mcp-binary";
 const VERSION = "v0.1.0";
 
