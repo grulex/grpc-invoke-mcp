@@ -1,0 +1,18 @@
+{
+  "name": "@grulex/grpc-invoke-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for describing and invoking gRPC methods",
+  "type": "module",
+  "bin": {
+    "grpc-invoke-mcp": "./bin/grpc-invoke-mcp.js"
+  },
+  "scripts": {
+    "postinstall": "node scripts/install.js"
+  },
+  "files": [
+    "bin",
+    "scripts",
+    "vendor"
+  ],
+  "license": "MIT"
+}
