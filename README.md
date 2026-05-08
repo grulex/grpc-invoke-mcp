@@ -1,5 +1,9 @@
 # gRPC Invoke MCP
 
+![npm version](https://img.shields.io/npm/v/@grulex/grpc-invoke-mcp)
+![npm downloads](https://img.shields.io/npm/dw/@grulex/grpc-invoke-mcp)
+![license](https://img.shields.io/npm/l/@grulex/grpc-invoke-mcp)
+
 `grpc-invoke-mcp` is an MCP server for calling gRPC methods from AI agents like Claude Code, Codex, Cursor, and other MCP-compatible tools.
 
 It gives agents a simple way to inspect gRPC APIs and invoke unary RPCs using either server reflection or local `.proto` files. This is useful when you want an agent to explore services, understand request and response schemas, make real gRPC calls, and test gRPC integrations during agent-driven development without writing one-off scripts.
