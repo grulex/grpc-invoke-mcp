@@ -20,7 +20,9 @@
   "files": [
     "bin",
     "scripts",
-    "vendor"
+    "vendor",
+    "README.md",
+    "LICENSE"
   ],
   "license": "MIT"
 }
