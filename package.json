@@ -1,6 +1,6 @@
 {
   "name": "@grulex/grpc-invoke-mcp",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "MCP server for describing and invoking gRPC methods",
   "type": "module",
   "bin": {
