@@ -6,6 +6,14 @@
   "bin": {
     "grpc-invoke-mcp": "./bin/grpc-invoke-mcp.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grulex/grpc-invoke-mcp.git"
+  },
+  "homepage": "https://github.com/grulex/grpc-invoke-mcp",
+  "bugs": {
+    "url": "https://github.com/grulex/grpc-invoke-mcp/issues"
+  },
   "scripts": {
     "postinstall": "node scripts/install.js"
   },
